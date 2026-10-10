@@ -1,0 +1,6 @@
+{
+  "name": "AegisVault - Zero-Knowledge Client-Side Password Manager",
+  "description": "A zero-knowledge, client-side encrypted password manager running entirely in the browser with Web Crypto AES-GCM 256 and IndexedDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
